@@ -1,0 +1,151 @@
+Name,Region,Address,Latitude,Longitude,Phone Number,Verified,Street,Unit,Region2,Province (abbv.),Postal Code,Province,First 3 digits of Postal Code,Region_new,Count
+Nedco,Carp,"2710 Carp Road D, Carp, ON, K0A 1L0",45.302714,-75.9812374,613-836-7515,,2710 Carp Road D,,Carp,ON,K0A 1L0,Ontario,K0A,Eastern,1
+Westburne/Rockwell,Ottawa East - Rockwell Distri.,"1173-1175 Newmarket Street, Ottawa, ON, K1B 3V1",45.4104253,-75.6219793,613-747-9573,,1173-1175 Newmarket Street,Ottawa,ON,,K1B 3V1,Ontario,K1B,Eastern,2
+Guillevin International,Ottawa,"1377 Triole Street, Ottawa, ON, K1B 4T4",45.4169885,-75.6313135,613 722-4611,\,1377 Triole Street,Ottawa,ON,,K1B 4T4,Ontario,K1B,Eastern,2
+Nedco,Ottawa,"700 avenue Industriel, Ottawa, ON, K1G 0Y9",45.4098935,-75.6394533,613-247-7500,,700 avenue Industriel,,Ottawa,ON,K1G 0Y9,Ontario,K1G,Eastern,2
+City Electric Supply,Ottawa East,"740 Belfast Road., Unit B, Ottawa, ON, K1G 0Z5",45.4141655,-75.6425428,613 248-1799  ,,740 Belfast Road.,Unit B,Ottawa,ON,K1G 0Z5,Ontario,K1G,Eastern,2
+City Electric Supply,Ottawa Central Nepean,"60 Colonnade Road North, Units I – J, Nepean, ON, K2E 7L2",45.344902,-75.71486,613 237-5055,,60 Colonnade Road North,Units I – J,Nepean,ON,K2E 7L2,Ontario,K2E,Eastern,1
+Westburne/Rockwell,Ottawa West - Rockwell Distri.,"1867 Merivale Road, Nepean, ON, K2G 1E3",45.3344047,-75.7224093,613-225-9910,,1867 Merivale Road,Nepean,ON,,K2G 1E3,Ontario,K2G,Eastern,1
+City Electric Supply,Ottawa West Stittsville,"150 Iber Road, Stittsville, ON, K2S 1E7",45.2745826,-75.9025455,613 270-9677,,150 Iber Road,Stittsville,ON,,K2S 1E7,Ontario,K2S,Eastern,1
+Westburne/Rockwell,Cornwall- Rockwell Distributor,"9-850A Boundary Road South, Glengarry, ON, K6H 7P6",45.0484962,-74.6770915,613-933-1075,,9-850A Boundary Road South,Glengarry,ON,,K6H 7P6,Ontario,K6H,Eastern,1
+Guillevin International,Cornwall,"711 Rosemount Avenue, Cornwall, ON, K6J 3E5",45.0267639,-74.7551548,613 938-8433,,711 Rosemount Avenue,Cornwall,ON,,K6J 3E5,Ontario,K6J,Eastern,1
+Nedco,Brockville,"333 California Ave, Unit 19, Brockville, ON, K6V 6N5",44.6120285,-75.6920815,613-342-0600,,333 California Ave,Unit 19,Brockville,ON,K6V 6N5,Ontario,K6V,Eastern,2
+Westburne/Rockwell,Brockville - Rockwell Distri.,"1415 California Ave Unit #6, P.O. Box 1618, Brockville, ON, K6V 6E6",44.6223963,-75.6959604,613-345-1857,,1415 California Ave Unit #6,P.O. Box 1618,Brockville,ON,K6V 6E6,Ontario,K6V,Eastern,2
+Westburne/Rockwell,Smith Falls - Rockwell Distri.,"94 Cornelia Street West, Smith Falls, ON, K7A 4W7",44.9066687,-76.0301166,613-283-2270,,94 Cornelia Street West,Smith Falls,ON,,K7A 4W7,Ontario,K7A,Eastern,1
+Nedco,Perth,"130 Collings St. RR # 6, Perth, ON, K7H 3C8",44.9350115,-76.2445929,613-267-3560,,130 Collings St. RR # 6,,Perth,ON,K7H 3C8,Ontario,K7H,Eastern,1
+Nedco,Kingston,"1407 John Counter Blvd., Unit 10, Kingston, ON, K7K 6A9",44.2606583,-76.5182559,613-546-2661,,1407 John Counter Blvd.,Unit 10,Kingston,ON,K7K 6A9,Ontario,K7K,Eastern,2
+Westburne/Rockwell,Kingston- Rockwell Distributor,"1407 John Counter Boulevard Units 190-200, Kingston, ON, K7K 6A9",44.2606583,-76.5182559,613-546-5400,,1407 John Counter Boulevard Units 190-200,Kingston,ON,,K7K 6A9,Ontario,K7K,Eastern,2
+Guillevin International,Kingston,"751 Dalton Avenue, Kingston, ON, K7M 8N6",44.2709194,-76.5257894,613 544-1071,,751 Dalton Avenue,Kingston,ON,,K7M 8N6,Ontario,K7M,Eastern,1
+City Electric Supply,Pembroke,"125 Belmont Avenue, Pembroke, ON, K8A 2C4",45.8279391,-77.0950642,613 732-3648,,125 Belmont Avenue,,Pembroke,ON,K8A 2C4,Ontario,K8A,Eastern,1
+Westburne/Rockwell,Pembroke - Rockwell Distri.,"935 Mackay Street, Pembroke, ON, K8B 1A2",45.8098311,-77.1060299,613-735-1015,,935 Mackay Street,Pembroke,ON,,K8B 1A2,Ontario,K8B,Eastern,1
+Nedco,Belleville,"200 Adam St., Unit 3, Belleville, ON, K8N 2X9",44.1921657,-77.3797245,613-966-7777,,200 Adam St.,Unit 3,Belleville,ON,K8N 2X9,Ontario,K8N,Eastern,2
+City Electric Supply,Belleville,"57 Cannifton Road, Unit 4A, Belleville, ON, K8N 4V1",44.176729,-77.379264,613 967-1656,,57 Cannifton Road,Unit 4A,Belleville,ON,K8N 4V1,Ontario,K8N,Eastern,2
+Westburne/Rockwell,Belleville - Rockwell Distri.,"291 Coleman Street, Belleville, ON, K8P 3H9",44.167387,-77.3879766,613-968-5746,,291 Coleman Street,Belleville,ON,,K8P 3H9,Ontario,K8P,Eastern,3
+Sonepar/Sesco/Gescan,Belleville,"175 College Street West, Belleville, ON, K8P 2G7",44.1738553,-77.4017439,613.968.5531,,175 College Street West,Belleville,ON,,K8P 2G7,Ontario,K8P,Eastern,3
+Guillevin International,Belleville,"315 Bell Blvd. Unit #2, Belleville, ON, K8P 5H3",44.18344,-77.4133574,613 962-5321,\,315 Bell Blvd. Unit #2,Belleville,ON,,K8P 5H3,Ontario,K8P,Eastern,3
+Guillevin International,Cobourg,"630 Ontario Street, Cobourg, ON, K9A 3C4",43.9668725,-78.1790208,905 372-6881,\,630 Ontario Street,Cobourg,ON,,K9A 3C4,Ontario,K9A,Eastern,1
+Sonepar/Sesco/Gescan,Peterborough,"322 Mcdonnel Street West, Peterborough, ON, K9H 2W7",44.3097269,-78.3278174,705.741.3430,,322 Mcdonnel Street West,Peterborough,ON,,K9H 2W7,Ontario,K9H,Eastern,1
+Nedco,Peterborough,"765 The Kingsway, Peterborough, ON, K9J 6W7",44.2802138,-78.3370172,705-742-0434,,765 The Kingsway,,Peterborough,ON,K9J 6W7,Ontario,K9J,Eastern,5
+City Electric Supply,Peterborough,"638 The Kingsway Unit A Peterboroug, ON, K9J 7C8",44.2750772,-78.3431524,705 749-9798,,638 The Kingsway Unit A Peterboroug,ON,,,K9J 7C8,Ontario,K9J,Eastern,5
+Westburne/Rockwell,Peterborough- Rockwell Distri.,"700 Neal Drive, Peterborough, ON, K9J 6X7",44.278943,-78.2964619,705-743-1313,,700 Neal Drive,Peterborough,ON,,K9J 6X7,Ontario,K9J,Eastern,5
+Oscan Electric,Peterborough Branch,"730 Hawley Street, Peterborough, ON, K9J 4C8",44.2800674,-78.3332061,705.748.4600,,730 Hawley Street,Peterborough,ON,,K9J 4C8,Ontario,K9J,Eastern,5
+Guillevin International,Peterborough,"2015-1 Fisher Drive - Unit 103, Peterborough, ON, K9J 6X6",44.2625076,-78.3523102,705 742-8831,\,2015-1 Fisher Drive - Unit 103,Peterborough,ON,,K9J 6X6,Ontario,K9J,Eastern,5
+Nedco,Lindsay,"16 Commerce Place, Lindsay, ON, K9V 5Y4",44.3466092,-78.7576275,705-878-7000,,16 Commerce Place,,Lindsay,ON,K9V 5Y4,Ontario,K9V,Eastern,4
+City Electric Supply,Lindsay ,"3 Commerce Place Unit 101 Lindsay, ON, K9V 5Y3 ",44.3474807,-78.7590789,705 328-2835 ,,3 Commerce Place,Unit 101,Lindsay,ON,K9V 5Y3 ,Ontario,K9V,Eastern,4
+Westburne/Rockwell,Lindsay - Rockwell Distributor,"46 Colborne Street East, Lindsay, ON, K9V 1K5",44.3632291,-78.7306601,705-324-6301,,46 Colborne Street East,Lindsay,ON,,K9V 1K5,Ontario,K9V,Eastern,4
+Sonepar/Sesco/Gescan,Lindsay,"39 Commerce Road, Lindsay, ON, K9V 5Y3",44.3470947,-78.7595756,705.324.6500,,39 Commerce Road,Lindsay,ON,,K9V 5Y3,Ontario,K9V,Eastern,4
+Sonepar/Sesco/Gescan,Oshawa,"361 Marwood Drive, Oshawa, ON, L1H 7P8",43.8746722,-78.8295354,905.576.4166,,361 Marwood Drive,Oshawa,ON,, L1H 7P8,Ontario,L1H,Central,2
+Oscan Electric,Oshawa Branch,"209 Bloor Street East, Oshawa, ON, L1H 3M3",43.8814829,-78.8478702,905.728.3800,,209 Bloor Street East,Oshawa,ON,,L1H 3M3,Ontario,L1H,Central,2
+Westburne/Rockwell,Oshawa - Rockwell Distributor,"600 Thornton Road S, Oshawa, ON, L1J 6W7",43.883818,-78.8900093,905-576-7100,,600 Thornton Road S,Oshawa,ON,,L1J 6W7,Ontario,L1J,Central,2
+Guillevin International,Oshawa,"1000 Thornton Rd. S - Unit D, Oshawa, ON, L1J 7E2",43.8653226,-78.8833779,905 723-2291,,1000 Thornton Rd. S - Unit D,Oshawa,ON,,L1J 7E2,Ontario,L1J,Central,2
+City Electric Supply,Whitby ,"1801 Wentworth Street, Unit 7, Whitby, ON, L1N 8M3",43.8595591,-78.8949183,905 721-1500 ,,1801 Wentworth Street,Unit 7,Whitby,ON,L1N 8M3,Ontario,L1N,Central,1
+Sonepar/Sesco/Gescan,Ajax,"205 Mackenzie Avenue, Unit 3 Ajax, ON, L1S 2G1",43.845002,-79.029178,905.428.2446 ,,205 Mackenzie Avenue, Unit 3 Ajax,ON,, L1S 2G1,Ontario,L1S,Central,1
+City Electric Supply,Pickering,"1735 Bayly Street, Suite 12, Pickering, ON, L1W 3G7",43.8328353,-79.0653811,905 839-5161 ,,1735 Bayly Street,Suite 12,Pickering,ON,L1W 3G7,Ontario,L1W,Central,1
+City Electric Supply,Niagara Falls,"5124 Montrose Road, Niagara Falls, ON, L2H 1K5",43.0992262,-79.123431,905 357-9999,,5124 Montrose Road,Niagara Falls,ON,,L2H 1K5,Ontario,L2H,Central,1
+Westburne/Rockwell,St. Catharines,"485 Eastchester Avenue East , Unit 8, St. Catharines, ON, L2M 6S2",43.1706812,-79.2021985,905-988-3881,,485 Eastchester Avenue East,Unit 8,St. Catharines,ON,L2M 6S2,Ontario,L2M,Central,2
+Guillevin International,St. Catharines,"188 Bunting Road - Unit 13, St. Catharines, ON, L2M 3Y1",43.1707763,-79.2081832,905 684-4305,,188 Bunting Road - Unit 13,St. Catharines,ON,,L2M 3Y1,Ontario,L2M,Central,2
+City Electric Supply,St. Catharines,"27 Hiscott Street, St. Catharines, ON, L2R 1C7",43.1775486,-79.264716,905 641-0064,,27 Hiscott Street,St. Catharines,ON,,L2R 1C7,Ontario,L2R,Central,1
+City Electric Supply,Markham ,"89 Steelcase Road East, Markham, ON, L3R 1E9",43.8197382,-79.3474345,905 948-0441,,89 Steelcase Road East,Markham,ON,,L3R 1E9,Ontario,L3R,Central,2
+Sonepar/Sesco/Gescan,Markham,"698 Denison Street, Markham, ON, L3R 1C1",43.8249391,-79.3385534,905.752.0500,,698 Denison Street,Markham,ON,,L3R 1C1,Ontario,L3R,Central,2
+Nedco,Orillia,"23 Progress Drive, Unit 5, Orillia, ON, L3V 6H1",44.5873156,-79.4307815,705-325-9993,,23 Progress Drive,Unit 5,Orillia,ON,L3V 6H1,Ontario,L3V,Central,1
+Nedco,Newmarket,"120 Harry Walker Pkwy, Unit 3, Newmarket, ON, L3Y 7B2",44.0708563,-79.4256222,905-836-0900,,120 Harry Walker Pkwy,Unit 3,Newmarket,ON,L3Y 7B2,Ontario,L3Y,Central,3
+City Electric Supply,Newmarket ,"1110 Stellar Drive, Unit 107-108, Newmarket, ON, L3Y 7B7",44.0756492,-79.4322052,905 953-9960 ,,1110 Stellar Drive,Unit 107-108,Newmarket,ON,L3Y 7B7,Ontario,L3Y,Central,3
+Westburne/Rockwell,Newmarket - Rockwell Distri.,"110 Harry Walker Parkway, Newmarket, ON, L3Y 7B2",44.0704652,-79.4259084,905-895-8625,,110 Harry Walker Parkway,Newmarket,ON,,L3Y 7B2,Ontario,L3Y,Central,3
+Guillevin International,Vaughan,"8905 Hwy 50, Unit 6, Vaughan, ON, L4H 5A1",43.7965419,-79.6644195,905 264-1802,,8905 Hwy 50,Unit 6,Vaughan,ON,L4H 5A1,Ontario,L4H,Central,1
+City Electric Supply,Vaughan ,"8051 Keele Street, Suite 4-5, Vaughan, ON, L4K 1Y9",43.8071834,-79.5000906,905 695-0409 ,,8051 Keele Street,Suite 4-5,Vaughan,ON,L4K 1Y9,Ontario,L4K,Central,2
+Westburne/Rockwell,Vaughan,"676 Westburne Drive Unit #2, Vaughan, ON, L4K 4V5",43.8367127,-79.5009253,905-879-2642,,676 Westburne Drive Unit #2,Vaughan,ON,,L4K 4V5,Ontario,L4K,Central,2
+City Electric Supply,Woodbridge,"1 Whitmore Road, Units 10-12, Woodbridge, ON, L4L 8G4",43.7822355,-79.5533908,905 856-8824 ,,1 Whitmore Road,Units 10-12,Woodbridge,ON,L4L 8G4,Ontario,L4L,Central,4
+Sonepar/Sesco/Gescan,Vaughan,"51 Vinyl Court, Vaughan, ON, L4L 4A3",43.7665274,-79.5692995,416.745.9292 ,,51 Vinyl Court,Vaughan,ON,,L4L 4A3,Ontario,L4L,Central,4
+O'Neill Electric,GTA West,"150 Creditview Road, Woodbridge, ON, L4L 9N4 ",43.8133033,-79.5482289,416-798-7722,,150 Creditview Road,Woodbridge,ON,,L4L 9N4 ,Ontario,L4L,Central,4
+Guillevin International,Woodbridge,"51 Terecar Drive - Unit 4, Woodbridge, ON, L4L 0B5",43.8100864,-79.5475237,905 264-1111,x,51 Terecar Drive - Unit 4,Woodbridge,ON,,L4L 0B5,Ontario,L4L,Central,4
+Nedco,Barrie,"142 Commerce Park Drive, Units S T U, Barrie, ON, L4N 8W8",44.3228363,-79.6934231,705-726-0211,,142 Commerce Park Drive,Units S T U,Barrie,ON,L4N 8W8,Ontario,L4N,Central,3
+City Electric Supply,Barrie ,"85 Patterson Road, Barrie, ON, L4N 3V9",44.3647155,-79.7069015,705 725-0333 ,,85 Patterson Road,,Barrie,ON,L4N 3V9,Ontario,L4N,Central,3
+Westburne/Rockwell,Barrie - Rockwell Distributor,"80 Morrow Road, Barrie, ON, L4N 3V8",44.3628524,-79.7040963,705-726-2331,,80 Morrow Road,Barrie,ON,,L4N 3V8,Ontario,L4N,Central,3
+Westburne/Rockwell,Midland - Rockwell Distributor,"405 Cranston Crescent, P.O. Box 395, Midland, ON, L4R 4L1",44.7299771,-79.8629147,705-526-3710,,405 Cranston Crescent,P.O. Box 395,Midland,ON,L4R 4L1,Ontario,L4R,Central,1
+City Electric Supply,Mississauga Torbram Rd,"7270 Torbram Rd, Unit 1, Mississauga, ON, L4T 3Y7",43.6991751,-79.6611744,905 671-0800 ,,7270 Torbram Rd,Unit 1,Mississauga,ON,L4T 3Y7,Ontario,L4T,Central,1
+City Electric Supply,Mississauga Maingate Drive ,"5030 Maingate Drive, Unit 9-10, Mississauga, ON, L4W 1N5",43.6297366,-79.6280594,905 629-9912 ,,5030 Maingate Drive,Unit 9-10,Mississauga,ON,L4W 1N5,Ontario,L4W,Central,1
+City Electric Supply,Mississauga Burnhamthorpe Rd ,"720 Burnhamthorpe Road, Units 19-20, Mississauga, ON, L5C 3G1",43.5774991,-79.6524911,905 276-6700,,720 Burnhamthorpe Road,Units 19-20,Mississauga,ON,L5C 3G1,Ontario,L5C,Central,1
+Westburne/Rockwell,Laird - Rockwell Distributor,"3495 Laird Road Unit #21, Mississauga, ON, L5L 5S5",43.5162097,-79.6957417,905-608-1010,,3495 Laird Road Unit #21,Mississauga,ON,,L5L 5S5,Ontario,L5L,Central,1
+Westburne/Rockwell,CourtneyPark- Rockwell Distri.,"1180 CourtneyPark Dr. E, Mississauga, ON, L5T 1P2",43.657214,-79.6645072,905-670-6144,,1180 CourtneyPark Dr. E,Mississauga,ON,,L5T 1P2,Ontario,L5T,Central,1
+City Electric Supply,Oakville,"1042 Speers Road, Oakville, ON, L6L 2X4",43.4322256,-79.7031482,905 339-1818 ,x,1042 Speers Road,Oakville,ON,,L6L 2X4,Ontario,L6L,Central,1
+City Electric Supply,Brampton ,"158 Kennedy Road S, Units 8-9, Brampton, ON, L6W 3G7",43.6819495,-79.7301864,905 452-7752,,158 Kennedy Road S,Units 8-9,Brampton,ON,L6W 3G7,Ontario,L6W,Central,2
+Sonepar/Sesco/Gescan,Brampton,"268 Rutherford Road South, Unit 7, Brampton, ON, L6W 3N3",43.686888,-79.7254061,905.451.4550,,268 Rutherford Road South,Unit 7,Brampton,ON,L6W 3N3,Ontario,L6W,Central,2
+City Electric Supply,Georgetown formerly Milton,"20 Armstrong Ave, Unit 1, Georgetown, ON, L7G 4R9",43.6548748,-79.9058024,905-877-2553,,20 Armstrong Ave,Unit 1,Georgetown,ON,L7G 4R9,Ontario,L7G,Central,1
+City Electric Supply,Burlington,"4325 Harvester Rd, Unit 6, Burlington, ON, L7L 5M4",43.3719471,-79.7761709,905 634-7000 ,,4325 Harvester Rd,Unit 6,Burlington,ON,L7L 5M4,Ontario,L7L,Central,3
+Westburne/Rockwell,Burlington,"975 Fraser Drive Units 19 & 20, Burlington, ON, L7L 4X8",43.3675503,-79.7837036,905-681-7110,,975 Fraser Drive Units 19 & 20,Burlington,ON,,L7L 4X8,Ontario,L7L,Central,3
+Guillevin International,Burlington,"990 Fraser Drive Unit #3,Burlington, ON, L7L 5P5",43.3667297,-79.7853677,289 288-4313,,990 Fraser Drive Unit #3,Burlington,ON,,L7L 5P5,Ontario,L7L,Central,3
+City Electric Supply,Hamilton,"249 Lake Avenue North, Hamilton, ON, L8E 3B8",43.2356749,-79.7528242,905 573-8133,,249 Lake Avenue North,Hamilton,ON,,L8E 3B8,Ontario,L8E,Central,2
+Westburne/Rockwell,Stoney Creek,"560 Arvin Avenue Unit 6, Stoney Creek, ON, L8E 5P1",43.226605,-79.7052193,905-643-0651,,560 Arvin Avenue Unit 6,Stoney Creek,ON,,L8E 5P1,Ontario,L8E,Central,2
+Guillevin International,Hamilton,"238 Gage Avenue N, Hamilton, ON, L8L 7A7",43.2561313,-79.8243341,905 544-1900,,238 Gage Avenue N,Hamilton,ON,,L8L 7A7,Ontario,L8L,Central,1
+Westburne/Rockwell,Hamilton,"120 Nebo Road, Hamilton, ON, L8W 2E4",43.1950307,-79.837465,905-574-8688,,120 Nebo Road,Hamilton,ON,,L8W 2E4,Ontario,L8W,Central,2
+Sonepar/Sesco/Gescan,Hamilton,"85 Hempstead Drive, Hamilton, ON, L8W 2Y6",43.1968194,-79.8390406,905.389.9292,,85 Hempstead Drive,Hamilton,ON,,L8W 2Y6,Ontario,L8W,Central,2
+City Electric Supply,Orangeville,"22 Robb Boulevard, Orangeville, ON, L9W 3L2",43.9048378,-80.1116109,519 938-8041,,22 Robb Boulevard,,Orangeville,ON,L9W 3L2,Ontario,L9W,Central,2
+Westburne/Rockwell,Orangeville - Rockwell Distri.,"48 Centennial Road , Units 11 & 12, Orangeville, ON, L9W 3T4",43.9080276,-80.1105957,519-941-2006,,48 Centennial Road,Units 11 & 12,Orangeville,ON,L9W 3T4,Ontario,L9W,Central,2
+City Electric Supply,Collingwood,"90 Mountain Road, Unit 2, Collingwood, ON, L9Y 4W6",44.5011948,-80.2411333,705 446-2661,,90 Mountain Road,Unit 2,Collingwood,ON,L9Y 4W6,Ontario,L9Y,Central,2
+Westburne/Rockwell,Collingwood - Rockwell Distri.,"100 High Street Unit # 1, Collingwood, ON, L9Y 4K2",44.4934658,-80.2336562,705-445-2582,,100 High Street Unit # 1,Collingwood,ON,,L9Y 4K2,Ontario,L9Y,Central,2
+Westburne/Rockwell,Scarborough - Rockwell Distri.,"1210 Markham Road, Scarborough, ON, M1H 3B3",43.7776898,-79.2336055,416-751-4310,,1210 Markham Road,Scarborough,ON,,M1H 3B3,Ontario,M1H,Central,1
+City Electric Supply,Scarborough,"21 Canadian Road, Unit 3, Scarborough, ON, M1R 5G2",43.7601298,-79.2934715,416 750-3717 ,,21 Canadian Road,Unit 3,Scarborough,ON,M1R 5G2,Ontario,M1R,Central,2
+O'Neill Electric,GTA East,"121 Howden Road, Scarborough, ON, M1R 3C7",43.7549814,-79.2906536,416-609-1010,,121 Howden Road,Scarborough,ON,,M1R 3C7,Ontario,M1R,Central,2
+City Electric Supply,Scarborough North ,"17 State Crown Blvd Unit 1, Scarborough, ON, M1V 4B1 ",43.830035,-79.2582943,416 332-0112 ,,17 State Crown Blvd Unit 1,Scarborough,ON,,M1V 4B1 ,Ontario,M1V,Central,1
+City Electric Supply,Downtown Toronto,"49 Spadina Avenue, Unit 2, Toronto, ON, M5V 2J1",43.6434844,-79.3935903,416-979-8834,,49 Spadina Avenue,Unit 2,Toronto,ON,M5V 2J1,Ontario,M5V,Central,1
+City Electric Supply,North York ,"2700 Dufferin St Unit, Unit 69, York, ON, M6B 4J3",43.7017934,-79.4535047,416 781-3600 ,,2700 Dufferin St Unit,Unit 69,York,ON,M6B 4J3,Ontario,M6B,Central,1
+Sonepar/Sesco/Gescan,Toronto Central,"282 Campbell Avenue, Toronto, ON, M6P 3V6",43.6650559,-79.4500579,416.961.4550,,282 Campbell Avenue,Toronto,ON,,M6P 3V6,Ontario,M6P,Central,1
+City Electric Supply,Etobicoke ,"730 Kipling Ave, Etobicoke, ON, M8Z 5G5",43.6265191,-79.5296074,416 253-0777 ,,730 Kipling Ave,Etobicoke,ON,,M8Z 5G5,Ontario,M8Z,Central,3
+Westburne/Rockwell,Horner - Rockwell Distributor,"75 Horner Ave Unit 2, Toronto, ON, M8Z 4X5",43.613522,-79.515961,416-503-4778,,75 Horner Ave Unit 2,Toronto,ON,,M8Z 4X5,Ontario,M8Z,Central,3
+Sonepar/Sesco/Gescan,Etobicoke,"85 Queen Elizabeth Blvd., Etobicoke, ON, M8Z 1M5",43.6213462,-79.5117236,416.259.4228,,85 Queen Elizabeth Blvd.,Etobicoke,ON,,M8Z 1M5,Ontario,M8Z,Central,3
+City Electric Supply,Rexdale ,"75 City View Drive, Unit 2, Etobicoke, ON, M9W 5A5",43.6992266,-79.5851601,416 744-6888 ,,75 City View Drive,Unit 2,Etobicoke,ON,M9W 5A5,Ontario,M9W,Central,1
+Westburne/Rockwell,Guelph - Rockwell Distributor,"362 Silvercreek Parkway North, Guelph, ON, N1H 1E7",43.5468081,-80.2911012,519-821-4020,,362 Silvercreek Parkway North,Guelph,ON,,N1H 1E7,Ontario,N1H,Southwest,2
+Guillevin International,Guelph,"120 Dawson Road, Guelph, ON, N1H 1A6",43.5504819,-80.2817905,519 763-8899,,120 Dawson Road,Guelph,ON,,N1H 1A6,Ontario,N1H,Southwest,2
+City Electric Supply,Guelph ,"30 Fair Road, Units 5, Guelph, ON, N1K 0A1",43.5541266,-80.2964918,519 821-8218,,30 Fair Road,Units 5,Guelph,ON,N1K 0A1,Ontario,N1K,Southwest,1
+City Electric Supply,Cambridge,"101 Sheldon Drive, Unit 1- 2 Cambridge, ON, N1R 6T6",43.4021221,-80.3184213,519 622-6899  ,,101 Sheldon Drive,Unit 1- 2 Cambridge,ON,,N1R 6T6,Ontario,N1R,Southwest,3
+Westburne/Rockwell,Cambridge-Rockwell Distributor,"543 Conestoga Boulevard , Units 13 & 14, Cambridge, ON, N1R 6T4",43.4022167,-80.3184667,519-623-6710,,543 Conestoga Boulevard,Units 13 & 14,Cambridge,ON,N1R 6T4,Ontario,N1R,Southwest,3
+Guillevin International,Cambridge,"1575 Bishop Street N. - Unit 3, Cambridge, ON, N1R 7J4",43.3979269,-80.3093849,519 740-6472,,1575 Bishop Street N. - Unit 3,Cambridge,ON,,N1R 7J4,Ontario,N1R,Southwest,3
+Guillevin International,Cambridge,"305 Sheldon Drive - Unit B, Cambridge, ON, N1T 1A7",43.40677,-80.3010271,519 740-7100,,305 Sheldon Drive - Unit B,Cambridge,ON,,N1T 1A7,Ontario,N1T,Southwest,1
+Westburne/Rockwell,Kitchener-Rockwell Distributor,"101 Webster Rd, Kitchener, ON, N2C 2E7",43.416922,-80.446564,519-893-1711,,101 Webster Rd,Kitchener,ON,,N2C 2E7,Ontario,N2C,Southwest,1
+Guillevin International,Kitchener,"53 St. Leger Street, Kitchener, ON, N2H 4M1",43.4581625,-80.4866601,519 576-7580,,53 St. Leger Street,Kitchener,ON,,N2H 4M1,Ontario,N2H,Southwest,1
+City Electric Supply,Kitchener,"1455 Strasburg Road, Kitchener, ON, N2R 1H2",43.4028984,-80.468893,519 894-7266 ,,1455 Strasburg Road,Kitchener,ON,,N2R 1H2,Ontario,N2R,Southwest,1
+City Electric Supply,Waterloo,"663 Colby Drive, Waterloo, ON, N2V 1C2",43.5012108,-80.536075,519 884-7770 ,,663 Colby Drive,Waterloo,ON,,N2V 1C2,Ontario,N2V,Southwest,2
+Westburne/Rockwell,Waterloo- Rockwell Distributor,"75 Northland Drive, Waterloo, ON, N2V 1Y8",43.5074468,-80.5312998,519-746-0330,,75 Northland Drive,Waterloo,ON,,N2V 1Y8,Ontario,N2V,Southwest,2
+Westburne/Rockwell,Brantford,"71 Craig Street, Brantford, ON, N3R 7H9",43.1597603,-80.2519456,519-759-7300,,71 Craig Street,Brantford,ON,,N3R 7H9,Ontario,N3R,Southwest,1
+City Electric Supply,Brantford,"31 Adams Blvd., Unit 1, Brantford, ON, N3S 7V8",43.1587059,-80.2232064,519 754-1210,,31 Adams Blvd.,Unit 1,Brantford,ON,N3S 7V8,Ontario,N3S,Southwest,1
+Westburne/Rockwell,Simcoe,"47 Park Road, Simcoe, ON, N3Y 4N5",42.8457805,-80.3277081,519-428-0650,,47 Park Road,Simcoe,ON,,N3Y 4N5,Ontario,N3Y,Southwest,1
+Westburne/Rockwell,Tillsonburg - Rockwell Distri.,"37 Tillson Street Unit B, Tillsonburg, ON, N4G OB7",42.8559794,-80.711826,519-842-3651,,37 Tillson Street Unit B,Tillsonburg,ON,,N4G OB7,Ontario,N4G,Southwest,1
+Westburne/Rockwell,Owen Sound - Rockwell Distri.,"1170 Second Avenue East, Owen Sound, ON, N4K 2H9",44.5715612,-80.9409538,519-376-4310,,1170 Second Avenue East,Owen Sound,ON,,N4K 2H9,Ontario,N4K,Southwest,1
+Westburne/Rockwell,Woodstock-Rockwell Distributor,"80 Clarke Street South, Woodstock, ON, N4S 8Y7",43.1298468,-80.734001,519-539-8588,,80 Clarke Street South,Woodstock,ON,,N4S 8Y7,Ontario,N4S,Southwest,1
+City Electric Supply,Woodstock ,"450 Springbank Ave. South, Unit #4, Woodstock, ON, N4V 1B2",43.1199295,-80.7247016,519 421-4513 ,,450 Springbank Ave. South,Unit #4,Woodstock,ON,N4V 1B2,Ontario,N4V,Southwest,1
+Westburne/Rockwell,Listowel - RA,"430 Rocher Road, Building #1, Listowel, ON, N4W 0B2",43.7164475,-80.9585685,519-418-5000 ,,430 Rocher Road,Building #1,Listowel,ON,N4W 0B2,Ontario,N4W,Southwest,1
+City Electric Supply,Stratford,"43 Griffith Road, Stratford, ON, N5A 6S4",43.3513995,-80.9838697,519 271-8359 ,,43 Griffith Road,Stratford,ON,,N5A 6S4,Ontario,N5A,Southwest,2
+Westburne/Rockwell,Stratford-Rockwell Distributor,"341 Lorne Ave E, Stratford, ON, N5A 6S4",43.3524323,-80.9813227,519-275-2474,,341 Lorne Ave E,Stratford,ON,,N5A 6S4,Ontario,N5A,Southwest,2
+Westburne/Rockwell,St.Thomas-Rockwell Distributor,"6 Duckworth Ave, St. Thomas, ON, N5P 2A8",42.788536,-81.1735871,519-633-6613,,6 Duckworth Ave,St. Thomas,ON,,N5P 2A8,Ontario,N5P,Southwest,2
+Guillevin International,St. Thomas,"126 Edward Street - Unit 2, St. Thomas, ON, N5P 1Z1",42.7863771,-81.1701418,519 633-8446,,126 Edward Street - Unit 2,St. Thomas,ON,,N5P 1Z1,Ontario,N5P,Southwest,2
+City Electric Supply,London ,"287 Adelaide Street, London, ON, N5Z 3K8",42.9609231,-81.2187713,519 680-2711,,287 Adelaide Street,London,ON,,N5Z 3K8,Ontario,N5Z,Southwest,2
+Westburne/Rockwell,London - Rockwell Distributor,"600 Little Simcoe Street, London, ON, N5Z 1P4",42.9833098,-81.2277443,519-434-5755,,600 Little Simcoe Street,London,ON,,N5Z 1P4,Ontario,N5Z,Southwest,2
+Guillevin International,London,"229 Adelaide Street N, London, ON, N6B 3H3",42.9835309,-81.2296041,519 673-1800,,229 Adelaide Street N,London,ON,,N6B 3H3,Ontario,N6B,Southwest,2
+Guillevin International,London,"229-A Adelaide Street N London, ON, N6B 3H3",42.9835,-81.2296,519 673-1596,x,229-A Adelaide Street N London,ON,,,N6B 3H3,Ontario,N6B,Southwest,2
+Guillevin International,London,"1010 Adelaide Street S, London, ON, N6E 1R6",42.9333356,-81.2073228,519 673-1800,,1010 Adelaide Street S,London,ON,,N6E 1R6,Ontario,N6E,Southwest,2
+Guillevin International,London,"1010 Adelaide Street S, London, ON, N6E 1R4",42.9333356,-81.2073228,519 673-1596,,1010 Adelaide Street S,London,ON,,N6E 1R4,Ontario,N6E,Southwest,2
+Westburne/Rockwell,Strathroy-Rockwell Distributor,"309 High Street East, Strathroy, ON, N7G 3Z4",42.9604293,-81.6093727,519-245-2300,,309 High Street East,Strathroy,ON,,N7G 3Z4,Ontario,N7G,Southwest,1
+City Electric Supply,Sarnia,"1289 Confederation St, Unit 2, Sarnia, ON, N7S 4M7",42.9599647,-82.3598629,519 337-4799 ,,1289 Confederation St,Unit 2,Sarnia,ON,N7S 4M7,Ontario,N7S,Southwest,2
+Westburne/Rockwell,Sarnia,"1231 Confederation Street, Sarnia, ON, N7S 4M7",42.9596916,-82.3642599,519-336-0015,,1231 Confederation Street,Sarnia,ON,,N7S 4M7,Ontario,N7S,Southwest,2
+Guillevin International,Sarnia,"873, Phillip Street East - Unit #1, Sarnia, ON, N7T 1Z6",42.961417,-82.3791559,519 332-2025,,873,Phillip Street East - Unit #1,Sarnia,ON,N7T 1Z6,Ontario,N7T,Southwest,1
+Nedco,North Bay,"755 Wallace Rd., North Bay, ON, P1A 0E7",46.3140927,-79.4246126,705-474-3120,,755 Wallace Rd.,,North Bay,ON,P1A 0E7,Ontario,P1A,Northern,2
+Westburne/Rockwell,North Bay-Rockwell Distributor,"825 Wallace Road, North Bay, ON, P1A 0E7",46.3129888,-79.4244351,705-472-0590,,825 Wallace Road,North Bay,ON,,P1A 0E7,Ontario,P1A,Northern,2
+City Electric Supply,Huntsville,"182 Main Street West, Huntsville, ON, P1H 1X8",45.3187582,-79.2384242,705 788-0866,,182 Main Street West,,Huntsville,ON,P1H 1X8,Ontario,P1H,Northern,1
+Nedco,Bracebridge,"440 Eccleston Dr., Units 15 & 16, Bracebridge, ON, P1L 1Z6",45.0180609,-79.3143598,705-645-7200,,440 Eccleston Dr.,Units 15 & 16,Bracebridge,ON,P1L 1Z6,Ontario,P1L,Northern,2
+Westburne/Rockwell,Bracebridge - Rockwell Distri.,"440 Ecclestone Drive Unit # 2, Bracebridge, ON, P1L 1Z6",45.0177139,-79.3148192,705-645-8288,,440 Ecclestone Drive Unit # 2,Bracebridge,ON,,P1L 1Z6,Ontario,P1L,Northern,2
+Westburne/Rockwell,Parry Sound - Rockwell Distri.,"32 Joseph St, Parry Sound, ON, P2A 2G3",45.3568788,-80.0391246,705-746-1140,,32 Joseph St,Parry Sound,ON,,P2A 2G3,Ontario,P2A,Northern,1
+Nedco,Kirkland Lake,"11 George St., Kirkland Lake, ON, P2N 3G7",48.1437827,-80.0435597,705-567-2375,,11 George St.,,Kirkland Lake,ON,P2N 3G7,Ontario,P2N,Northern,2
+Guillevin International,Kirkland Lake,"21 Government Road E, Kirkland Lake, ON, P2N 1A1",48.1529584,-80.0313311,705 567-3251,,21 Government Road E,Kirkland Lake,ON,,P2N 1A1,Ontario,P2N,Northern,2
+Nedco,Sudbury,"1785 Frobisher Street, Unit 2, Sudbury, ON, P3A 6C8",46.5071703,-80.9338182,705-560-2800,,1785 Frobisher Street,Unit 2,Sudbury,ON,P3A 6C8,Ontario,P3A,Northern,2
+Westburne/Rockwell,Sudbury - Rockwell Distributor,"878 Falconbridge Road, Sudbury, ON, P3A 4S4",46.5159084,-80.9237029,705-560-2111,,878 Falconbridge Road,Sudbury,ON,,P3A 4S4,Ontario,P3A,Northern,2
+Guillevin International,Sudbury,"122 Dell Street Bldg. B-1, Sudbury, ON, P3C 2Y1",46.5069706,-80.9913671,705 675-8815,,122 Dell Street Bldg. B-1,Sudbury,ON,,P3C 2Y1,Ontario,P3C,Northern,1
+Nedco,Timmins,"870 Algonquin Blvd., Timmins, Ontario, P4N 1B7",48.47688,-81.314959,705-264-4293,,870 Algonquin Blvd.,,Timmins,ON,P4N 1B7,Ontario,P4N,Northern,2
+Westburne/Rockwell,Timmins - Rockwell Distributor,"800 Birch Street South, P.O. Box 902, Timmins, ON, P4N 7H1",48.4596014,-81.3321561,705-267-1436,,800 Birch Street South,P.O. Box 902,Timmins,ON,P4N 7H1,Ontario,P4N,Northern,2
+Nedco,Sault Ste. Marie,"80 White Oak Dr. E, Sault Ste. Marie, ON, P6B 4J8",46.537649,-84.3317673,705-949-7025,,80 White Oak Dr. E,,Sault Ste. Marie,ON,P6B 4J8,Ontario,P6B,Northern,3
+Westburne/Rockwell,Sault Ste.Marie-Rockwell Dist.,"64 White Oak Drive, Sault Ste. Marie, ON, P6B 4J8",46.5376503,-84.332532,705-949-5994,,64 White Oak Drive,Sault Ste. Marie,ON,,P6B 4J8,Ontario,P6B,Northern,3
+Guillevin International,Sault Ste. Marie,"81 White Oak Drive E, Sault Ste. Marie, ON, P6B 4J7",46.5368854,-84.3317513,705 254-6461,,81 White Oak Drive E,Sault Ste. Marie,ON,,P6B 4J7,Ontario,P6B,Northern,3
+Westburne/Rockwell,Thunder Bay,"1231 Amber Drive, Thunder Bay, ON, P7B 6M4",48.409682,-89.2626628,807-344-3100,,1231 Amber Drive,Thunder Bay,ON,,P7B 6M4,Ontario,P7B,Northern,3
+Sonepar/Sesco/Gescan,Gescan - Thunder Bay,"565 Dunlop Street Thunder Bay, ON, P7B 6S1",48.4037392,-89.248207,807-623-8404,,565 Dunlop Street Thunder Bay,ON,,,P7B 6S1,Ontario,P7B,Northern,3
+Guillevin International,Thunder Bay,"883 Tungsten St. Unit 5, Thunder Bay, ON, P7B 6H2",48.4135722,-89.2537371,807 345-7789,,883 Tungsten St. Unit 5,Thunder Bay,ON,,P7B 6H2,Ontario,P7B,Northern,3
+Guillevin International,Fort Frances,"924 Fifth Street West, Fort Frances, ON, P9A 3C7",48.6150876,-93.4244945,807 274-3243,,924 Fifth Street West,Fort Frances,ON,,P9A 3C7,Ontario,P9A,Northern,1
+Westburne/Rockwell,Kenora,"Unit 4 - 1 Dennis Place, PO Box 511, Kenora, ON, P9N 3X5",49.788383,-94.4900044,807-548-4266,,Unit 4 - 1 Dennis Place,PO Box 511,Kenora,ON,P9N 3X5,Ontario,P9N,Northern,1
