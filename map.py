@@ -83,7 +83,7 @@ def run():
 
     if demo_name == "—":
         show_code = False
-        st.write("# 0 to 1B GeoSpatial AI Analytic!!🌎🔍")
+        st.write("# 0 to 1B-I-M GeoSpatial AI Analytic!!🌎🔍")
     else:
         show_code = st.sidebar.checkbox("Show code", True)
         st.markdown("# %s" % demo_name)

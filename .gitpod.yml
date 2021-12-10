@@ -1,5 +1,8 @@
+# Commands to start on workspace startup
 tasks:
-  - init: |
-      echo 'TODO: build project'
-    command: |
-      echo 'TODO: start app'
+  - init: pip install streamlit leafmap
+    command: streamlit run map.py
+# Ports to expose on workspace startup
+ports:
+  - port: 8000
+    onOpen: open-browser
